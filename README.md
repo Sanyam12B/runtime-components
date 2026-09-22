@@ -1,0 +1,1 @@
+This repository is created for Homework 5 for CS 193 - Tools class at Purdue University. The main goal is to learn about git and the different commands used by developers. Git is a version control system used to track changes made to files.
